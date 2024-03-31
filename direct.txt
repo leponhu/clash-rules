@@ -39998,6 +39998,7 @@ payload:
   - '+.leeon.me'
   - '+.leepoint.net'
   - '+.leesou.com'
+  - '+.leetcode.cn'
   - '+.leetcode-cn.com'
   - '+.leetcodechina.com'
   - '+.leevy.net'
